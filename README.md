@@ -5,6 +5,7 @@ I am a **Big Data Scientist** passionate about applying my data skills in variou
    * [Forex-MCMC](https://github.com/Dorsa-Arezooji/Forex-MCMC) `R` | `Bayesian Structural Time-Series` `Forecst` `MCMC`
    * [Ethereum-Analysis](https://github.com/Dorsa-Arezooji/Ethereum-Analysis) `Python` | `Big Data Processing` `Big Graphs`
    * [Retail-Analytics](https://github.com/Dorsa-Arezooji/Retail-Analytics) `Python` | `Machine Learning` `Prediction` `Bayesian Learning`
+   * [Forex-Flask](https://github.com/Dorsa-Arezooji/Forex-Flask) `Python` | `REST API` `Live & Historical Quotes` `Trading Journal`
     
 **Medical Data Analysis & Drug Development**
   
