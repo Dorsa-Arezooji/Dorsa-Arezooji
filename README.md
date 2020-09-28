@@ -1,5 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/readme_header.png "Header")](https://dorsa-arezooji.github.io/)
 
+[![Header](https://giphy.com/gifs/Kql9TaDnFyHwQ/html5) "Header")]
 <img src="https://giphy.com/gifs/Kql9TaDnFyHwQ/html5)" width="30px">
 
 <img src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/logo.gif" width="30px">
@@ -28,19 +29,19 @@ I try to share anything I might find useful such as tutorials, papers, apps, tip
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dorsa-Arezooji/Dorsa-Arezooji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsa-Arezooji&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsa-Arezooji&hide=java,html&theme=material-palenight&show_icons=true" />
 </a>
+
 <a href="https://github.com/Dorsa-Arezooji/Dorsa-Arezooji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dorsa-Arezooji&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dorsa-Arezooji&show_icons=true&line_height=27&count_private=true&theme=material-palenight&show_icons=true" alt="Dorsa's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Dorsa-Arezooji/Forex-MCMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&theme=material-palenight&show_icons=true" />
 </a>
 
-
 <a href="https://github.com/Dorsa-Arezooji/Retail-Analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&theme=material-palenight&show_icons=true" />
 </a>   
 
 
