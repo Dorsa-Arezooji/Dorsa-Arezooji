@@ -1,7 +1,58 @@
-I am a **Big Data Scientist** passionate about applying my data skills in various fields:
+[![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/readme_header.png "Header")](https://dorsa-arezooji.github.io/)
 
-**Financial Data Analysis & Prediction**
-  
+<img src="https://giphy.com/gifs/Kql9TaDnFyHwQ/html5)" width="30px">
+
+<img src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/logo.gif" width="30px">
+
+I am a **Big Data Scientist/Analyst** passionate about applying my data skills in various fields including: 
+Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Medical Data Analysis, Python & R Development
+You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
+
+## &#x270d; Blog & Writing
+
+I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog).
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Dorsa-Arezooji/Dorsa-Arezooji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsa-Arezooji&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Dorsa-Arezooji/Dorsa-Arezooji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dorsa-Arezooji&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Dorsa-Arezooji/Forex-MCMC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Dorsa-Arezooji/Retail-Analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+<!--  
    * [Forex-MCMC](https://github.com/Dorsa-Arezooji/Forex-MCMC) `R` | `Bayesian Structural Time-Series` `Forecst` `MCMC`
    * [Ethereum-Analysis](https://github.com/Dorsa-Arezooji/Ethereum-Analysis) `Python` | `Big Data Processing` `Big Graphs`
    * [Retail-Analytics](https://github.com/Dorsa-Arezooji/Retail-Analytics) `Python` | `Machine Learning` `Prediction` `Bayesian Learning`
@@ -15,8 +66,5 @@ I am a **Big Data Scientist** passionate about applying my data skills in variou
 
 ### Languages
 `Python` `R` `SQL` `Scala`
+-->
 
-### Contact
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dorsa-arezooji/)
-&nbsp;
-[![Website](https://i.stack.imgur.com/tskMh.png) Website](https://dorsa-arezooji.github.io/)
