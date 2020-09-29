@@ -4,21 +4,30 @@
 
 ## About Me
 
-I am a **Big Data Scientist/Analyst** passionate about applying my data skills in various fields including: 
+* I am a Big Data Scientist / Analyst, passionate about applying my data skills in various fields including: 
 Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Medical Data Analysis, Python & R Development.
 
-You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
+* You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
 
-I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog).
+* I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog).
 
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GCP&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Big_Data-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Big_Data-Spark-informational?style=flat&logo=Spark&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
@@ -35,20 +44,21 @@ I try to share anything I might find useful such as tutorials, papers, apps, tip
 </a>
 -->
 
+
 <a href="https://github.com/Dorsa-Arezooji/Forex-MCMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&theme=material-palenight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>
 
 <a href="https://github.com/Dorsa-Arezooji/Retail-Analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&theme=material-palenight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>   
 
-<a href="https://github.com/Dorsa-Arezooji/Ethereum-AnalysisC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Ethereum-Analysis&theme=material-palenight&show_icons=true" />
+<a href="https://github.com/Dorsa-Arezooji/Ethereum-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Ethereum-Analysis&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>
 
 <a href="https://github.com/Dorsa-Arezooji/Forex-Flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&theme=material-palenight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>
 
 <!-- Resources -->
