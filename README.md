@@ -1,12 +1,12 @@
-[![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/readme_header.png "Header")](https://dorsa-arezooji.github.io/)
+[![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/header.png "Go to website")](https://dorsa-arezooji.github.io/)
 
-[![Header](https://giphy.com/gifs/Kql9TaDnFyHwQ/html5) "Header")]
-<img src="https://giphy.com/gifs/Kql9TaDnFyHwQ/html5)" width="30px">
+<img align="right" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/logo.gif" width="90px">
 
-<img src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/logo.gif" width="30px">
+## About Me
 
 I am a **Big Data Scientist/Analyst** passionate about applying my data skills in various fields including: 
-Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Medical Data Analysis, Python & R Development
+Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Medical Data Analysis, Python & R Development.
+
 You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
 
 ## &#x270d; Blog & Writing
