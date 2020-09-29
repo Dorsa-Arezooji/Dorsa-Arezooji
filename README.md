@@ -9,11 +9,9 @@ Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Med
 
 You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
 
-## &#x270d; Blog & Writing
-
 I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog).
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
@@ -26,15 +24,16 @@ I try to share anything I might find useful such as tutorials, papers, apps, tip
 
 
 
-## &#x1f4c8; GitHub Stats
+## Repos
 
+<!--
 <a href="https://github.com/Dorsa-Arezooji/Dorsa-Arezooji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorsa-Arezooji&hide=java,html&theme=material-palenight&show_icons=true" />
 </a>
-
 <a href="https://github.com/Dorsa-Arezooji/Dorsa-Arezooji">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dorsa-Arezooji&show_icons=true&line_height=27&count_private=true&theme=material-palenight&show_icons=true" alt="Dorsa's GitHub Stats" />
 </a>
+-->
 
 <a href="https://github.com/Dorsa-Arezooji/Forex-MCMC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&theme=material-palenight&show_icons=true" />
@@ -44,6 +43,13 @@ I try to share anything I might find useful such as tutorials, papers, apps, tip
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&theme=material-palenight&show_icons=true" />
 </a>   
 
+<a href="https://github.com/Dorsa-Arezooji/Ethereum-AnalysisC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Ethereum-Analysis&theme=material-palenight&show_icons=true" />
+</a>
+
+<a href="https://github.com/Dorsa-Arezooji/Forex-Flask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&theme=material-palenight&show_icons=true" />
+</a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
