@@ -1,6 +1,7 @@
-[![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/header.png "Go to website")](https://dorsa-arezooji.github.io/)
-
-<img align="right" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/logo.gif" width="90px">
+<div style="position:relative">
+  <img align="center" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/header.png" style="position:absolute; top: 0; left: 0;"/>
+  <img align="right" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/logo.gif" width="90px" style="position:absolute; top: 0; left: 0;"/>
+</div>
 
 ## About Me
 
@@ -47,6 +48,10 @@ Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Med
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>
 
+
+  [![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/header.png "Go to website")](https://dorsa-arezooji.github.io/)
+  
+  
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
