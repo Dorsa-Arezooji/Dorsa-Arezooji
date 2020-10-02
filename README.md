@@ -44,6 +44,10 @@ Financial Data Analysis & Forecast, Investment Portfolios & Risk Management, Med
 <a href="https://github.com/Dorsa-Arezooji/Forex-Flask">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>  
+
+<a href="https://github.com/Dorsa-Arezooji/SplittR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=SplittR&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+</a> 
   
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
