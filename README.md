@@ -33,7 +33,6 @@ Python & R Development, Financial Data Analysis & Forecast, Investment Portfolio
 </a>
 -->
 
-
 <a href="https://github.com/Dorsa-Arezooji/PortoDash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=PortoDash&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a>
@@ -65,7 +64,7 @@ Python & R Development, Financial Data Analysis & Forecast, Investment Portfolio
 <a href="https://github.com/Dorsa-Arezooji/SplittR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=SplittR&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
 </a> 
-  
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
