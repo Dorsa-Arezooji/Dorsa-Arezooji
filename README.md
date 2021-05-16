@@ -1,9 +1,9 @@
-  [![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/header.gif "Go to website")](https://dorsa-arezooji.github.io/)
-
+<!--  [![Header](https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/header.gif "Go to website")](https://dorsa-arezooji.github.io/)
+-->
 ## About Me
 
-* I am a Big Data Scientist / Analyst, passionate about applying my data skills in various fields including: 
-Python & R Development, Financial Data Analysis & Forecast, Investment Portfolios & Risk Management.
+* I am a Big Data Scientist, passionate about applying my skills in various fields including: 
+Python & R Data Science Application Development, Complex Social & Financial Networks, and other field where data science can make a difference.
 
 * You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
 
