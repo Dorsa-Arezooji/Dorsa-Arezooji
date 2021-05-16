@@ -2,10 +2,10 @@
 -->
 ## About Me
 
-* I am a Big Data Scientist, passionate about applying my skills in various fields including: 
-Python & R Data Science Application Development, Complex Social & Financial Networks, and other field where data science can make a difference.
+* I am a big data scientist passionate about applying my skills in various fields, including: 
+Python & R Data Science Application Development, Complex Social & Financial Networks, and other fields where data science can make a difference.
 
-* You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my website on [![](https://i.stack.imgur.com/tskMh.png)](https://dorsa-arezooji.github.io/)!
+* You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my [website](https://dorsa-arezooji.github.io/)! 
 
 * I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog).
 
