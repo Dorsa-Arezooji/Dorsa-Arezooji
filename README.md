@@ -2,18 +2,27 @@
 -->
 ## About Me
 
-* I am a big data scientist passionate about applying my skills in various fields, including: 
+I am a big data scientist passionate about applying my skills in various fields, including: 
 Python & R Data Science Application Development, Complex Social & Financial Networks, and other fields where data science can make a difference.
 
-* You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my [website](https://dorsa-arezooji.github.io/)! 
+<!-- * You can find me on [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dorsa-arezooji/) or check out my [website](https://dorsa-arezooji.github.io/)! 
 
-* I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog).
+* I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog). -->
+
+![](https://i.stack.imgur.com/gVE0j.png) [Linkedin](https://www.linkedin.com/in/dorsa-arezooji/)
+
+🎓 [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
+
+🌐 [Website](https://dorsa-arezooji.github.io/)
+
+📊 [Center for Complex Networks & Social Data Science](https://ccnsd.ir/)
+
 
 ## Technologies & Tools
 
 | Dev | Cloud | Big Data | Tools |
 | --- | --- | --- | --- |
-|![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/Big_Data-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Big_Data-PySpark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) |
+|![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/Big_Data-Hadoop-informational?style=flat&logo=Hadoop&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Big_Data-PySpark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) |
 <!--
 |![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) | 
 
