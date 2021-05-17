@@ -13,7 +13,7 @@ Python & R Data Science Application Development, Complex Social & Financial Netw
 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
 
-🌐 [Website](https://dorsa-arezooji.github.io/)
+🌐 [Personal Website](https://dorsa-arezooji.github.io/)
 
 📊 [Center for Complex Networks & Social Data Science](https://ccnsd.ir/)
 
