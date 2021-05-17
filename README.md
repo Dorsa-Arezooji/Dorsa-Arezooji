@@ -9,13 +9,13 @@ Python & R Data Science Application Development, Complex Social & Financial Netw
 
 * I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog). -->
 
-![](https://i.stack.imgur.com/gVE0j.png) [Linkedin](https://www.linkedin.com/in/dorsa-arezooji/)
+<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/linkedin(1).svg" /> [Linkedin](https://www.linkedin.com/in/dorsa-arezooji/)
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
+<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/googlescholar(1).svg" /> [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
 
-🌐 [Personal Website](https://dorsa-arezooji.github.io/)
+<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/DA.png" /> [Personal Website](https://dorsa-arezooji.github.io/)
 
-📊 [Center for Complex Networks & Social Data Science](https://ccnsd.ir/)
+<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/output-onlinepngtools(1).png" /> [Center for Complex Networks & Social Data Science](https://ccnsd.ir/)
 
 
 ## Technologies & Tools
