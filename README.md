@@ -9,13 +9,10 @@ Python & R Data Science Application Development, Complex Social & Financial Netw
 
 * I try to share anything I might find useful such as tutorials, papers, apps, tips and advice, my experiences, and more in my [blog](https://Dorsa-Arezooji.github.io/Blog). -->
 
-[<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/linkedin(1).svg" />](https://www.linkedin.com/in/dorsa-arezooji/) [Linkedin](https://www.linkedin.com/in/dorsa-arezooji/)
-
-[<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/googlescholar(1).svg" />](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao) [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
-
-[<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/DA.png" />](https://dorsa-arezooji.github.io/) [Personal Website](https://dorsa-arezooji.github.io/)
-
-[<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/output-onlinepngtools(1).png" />](https://ccnsd.ir/) [Center for Complex Networks & Social Data Science](https://ccnsd.ir/)
+[<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/linkedin(1).svg" />](https://www.linkedin.com/in/dorsa-arezooji/ ' LinkedIn ')
+[<img height="20" width="20" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/googlescholar(1).svg" />](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao ' Google Scholar ') 
+[<img height="23" width="23" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/DA.png" />](https://dorsa-arezooji.github.io/ ' Personal Website ') 
+[<img height="21" width="21" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/output-onlinepngtools(1).png" />](https://ccnsd.ir/ ' Center for Complex Systems & Social Data science (CCNSD) ')
 
 
 ## Technologies & Tools
