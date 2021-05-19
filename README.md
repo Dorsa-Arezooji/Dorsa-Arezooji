@@ -43,35 +43,35 @@ Python & R Data Science Application Development, Complex Social & Financial Netw
 -->
 
 <a href="https://github.com/Dorsa-Arezooji/PortoDash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=PortoDash&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=PortoDash&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a>
 
 <a href="https://github.com/Dorsa-Arezooji/NetSent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=NetSent&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=NetSent&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a>
 
 <a href="https://github.com/Dorsa-Arezooji/Forex-MCMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-MCMC&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a>
 
 <a href="https://github.com/Dorsa-Arezooji/Ethereum-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Ethereum-Analysis&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Ethereum-Analysis&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a>  
 
 <a href="https://github.com/Dorsa-Arezooji/Forex-Flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Forex-Flask&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a>  
 
 <a href="https://github.com/Dorsa-Arezooji/Retail-Analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Retail-Analytics&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a> 
 
 <a href="https://github.com/Dorsa-Arezooji/Sick-Pigs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Sick-Pigs&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=Sick-Pigs&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a> 
 
 <a href="https://github.com/Dorsa-Arezooji/SplittR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=SplittR&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=121112&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=SplittR&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a> 
 
 <!-- Resources -->
