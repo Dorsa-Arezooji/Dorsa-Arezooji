@@ -71,6 +71,10 @@ Python & R Data Science Application Development, Complex Social & Financial Netw
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorsa-Arezooji&repo=SplittR&title_color=04fc95&text_color=90e1df&icon_color=04fc95&bg_color=071611&show_icons=true" />
 </a> 
 
+<!-- 
+![views](https://gpvc.arturio.dev/Dorsa-Arezooji)
+-->
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
