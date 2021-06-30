@@ -7,7 +7,7 @@ Complex Networks, Python & R Scientific Application Development, and other field
 
 - [<img height="16" width="16" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/output-onlinepngtools(1).png" />](https://ccnsd.ir/ ' Center for Complex Systems & Social Data science (CCNSD) ') I'm a visiting researcher at the Center for Complex Networks & Social Data science ([CCNSD](https://ccnsd.ir/))
 - [<img height="15" width="15" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/linkedin(1).svg" />](https://www.linkedin.com/in/dorsa-arezooji/ ' LinkedIn ') Find me on [Linkedin](https://www.linkedin.com/in/dorsa-arezooji/)
-- [<img height="15" width="15" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/googlescholar(1).svg" />](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao ' Google Scholar ') Read my (open-source) papers on [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
+- [<img height="15" width="15" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/googlescholar(1).svg" />](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao ' Google Scholar ') Find my research papers on [Google Scholar](https://scholar.google.com/citations?user=OJz1WroAAAAJ&hl=en&oi=ao)
 - [<img height="16" width="16" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/DA.png" />](https://dorsa-arezooji.github.io/ ' Personal Website ') Find out more on my [personal website](https://dorsa-arezooji.github.io/)
 
 
