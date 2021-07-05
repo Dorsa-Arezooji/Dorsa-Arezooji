@@ -2,7 +2,7 @@
 -->
 ## About Me
 
-I am a big data scientist passionate about applying my skills in various fields, including: 
+I am a big data scientist, passionate about applying my skills in various fields, including: 
 Complex Networks, Python & R Scientific Application Development, and other fields where data science can make a difference.
 
 - [<img height="16" width="16" src="https://raw.githubusercontent.com/Dorsa-Arezooji/Dorsa-Arezooji/master/output-onlinepngtools(1).png" />](https://ccnsd.ir/ ' Center for Complex Systems & Social Data science (CCNSD) ') I'm a visiting researcher at the Center for Complex Networks & Social Data science ([CCNSD](https://ccnsd.ir/))
